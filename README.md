@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Rui En!
-I enjoy creating new applications and learning about data science.
+I enjoy creating new applications and learning about full stack software engineering and UI/UX design.
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning machine learning
